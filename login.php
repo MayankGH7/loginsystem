@@ -17,7 +17,7 @@ if (isset($_POST["login-submit"]) && !empty($_POST["username"]) && !empty($_POST
   }
 }
 ?>
-<!-- vmsd -->
+<!-- Mayank Yadavv -->
 <!doctype html>
 <html lang="en">
 <head>
